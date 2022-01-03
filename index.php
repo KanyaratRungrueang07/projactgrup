@@ -125,7 +125,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-5 bg" style=" height: 620px;">
+            <div class="col-5 bg" style=" height: 650px;">
                 <!-- การ์ด1 -->
 
                 <img src="https://f.ptcdn.info/815/058/000/pcei5g77iJix1zRYC52-o.jpg" width="158px" height="135px"
@@ -145,7 +145,7 @@
                 <!---แกงจืด-->
 
             </div>
-            <div class="col-5 bg1" style=" height: 620px; margin-right: 2%;">
+            <div class="col-5 bg1" style=" height: 650px; margin-right: 2%;">
                 <!-- การ์ด2-->
 
                 <div class="container">
