@@ -92,7 +92,7 @@
         <nav class="navbar navbar-expand-md navbar-dark " style="height: 15%; background-color:RGB(255, 140, 0);">
 
             <div class="mx-auto order-0">
-                <a href="หน้าหลัก.html">
+                <a href="https://home-main2.herokuapp.com/">
                     <img src="https://scontent.furt2-1.fna.fbcdn.net/v/t1.15752-9/270242207_1008296189759019_4358413855295773765_n.png?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_ohc=uyrLkkFBVJkAX8ztm-v&_nc_ht=scontent.furt2-1.fna&oh=03_AVJhJihfOtEQpdhPOa17f_Q_xBzcD-OzRscgIpoN7ePYBg&oe=61F48E5D"
                         alt="logo" style="width: 150px; height: 50px; text-align: center;">
                 </a>
@@ -152,7 +152,7 @@
                         alt="" style="width: 100px; height: 100px;  margin-left: 150px ; margin-top: 10px;" class="img7">
                     <h4 style="text-align: center;">ลงทะเบียน</h4>
                     <div class="login-page">
-                        <form>
+                        <form action="">
                             <div class="form-group">
                                 <i class='fas fa-user-alt'></i>
                                 <label for="exampleInputEmail1" style="margin-top:-100px;">User name</label>
